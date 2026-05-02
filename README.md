@@ -183,7 +183,7 @@ The `/api/compare` endpoint flushes the table cache between runs to ensure a fai
 
 ---
 
-## 🧑Database Users
+## Database Users
 
 | User | Role | Permissions |
 |---|---|---|
